@@ -1,0 +1,15 @@
+.imagem-carrocel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 600px;
+}
+
+.imagem-carrocel-dois {
+    object-fit: cover;
+    height: 600px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+
+}
