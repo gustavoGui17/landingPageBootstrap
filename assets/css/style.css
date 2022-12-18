@@ -1,5 +1,5 @@
 .card-largura {
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .imagem-carrocel-um {
@@ -19,20 +19,19 @@
 }
 
 .cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
-.botao-cor-especial {
+#botao-cor {
     background-color: darkred;
     color: white;
 }
 
-.borda-cor-especial {
+#borda-cor-especial {
     border-color: darkred;
 }
 
 .card-possicao-imagem {
     object-fit: cover;
-    /* object-position: 0 80%; */
     height: 200px;    
 }
